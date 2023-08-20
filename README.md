@@ -15,7 +15,9 @@ The app utilizes various Android components, such as activities, fragments, and 
 ## Screenshots
 
 <img src="https://github.com/NitinGautam05/MemorablePlace/assets/133783184/fdb16e4a-fa9d-4143-8bd4-2541a608856b" alt="Screenshot_1" width="300"/>
-<img src="https://github.com/NitinGautam05/MemorablePlace/assets/133783184/3f75274b-5f00-401e-b907-851f1011879f" alt="Screenshot_1" width="300"/>
+<img src="https://github.com/NitinGautam05/MemorablePlace/assets/133783184/3f75274b-5f00-401e-b907-851f1011879f" alt="Screenshot_2" width="300"/>
+<img src="https://github.com/NitinGautam05/MemorablePlace/assets/133783184/762cbad9-8b3f-4b12-b61a-0ede1dd72cdc" alt="Screenshot_3" width="300"/>
+
 
 
 ## Installation
